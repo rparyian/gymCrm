@@ -1,0 +1,33 @@
+User data
+# firstName,lastName,isActive
+John,Doe,true
+John,Doe,true
+John,Doe,true
+Bob,Williams,true
+Bob,Williams,true
+Bob,Williams,true
+
+Trainee data
+# dateOfBirth,address,userId
+1990-01-15,123 Main St,1
+1988-05-22,456 Oak St,2
+1992-11-30,789 Pine St,3
+1985-03-10,101 Maple St,4
+
+Trainer data
+# specialization,userId
+Yoga,5
+Power training,6
+
+Training data
+# traineeId,trainerId,trainingName,trainingTypeId,trainingDate,trainingDuration
+1,1,Yoga,1,2023-01-15,3
+2,2,Power training,2,2023-02-20,2
+3,1,Yoga,1,2023-03-10,4
+4,2,Power training,2,2023-04-05,3
+1,1,Yoga,1,2023-05-15,3
+2,2,Power training,2,2023-06-22,2
+3,1,Yoga,1,2023-07-08,4
+4,2,Power training,2,2023-08-12,3
+1,1,Yoga,1,2023-09-25,3
+2,2,Power training,2,2023-10-30,2
